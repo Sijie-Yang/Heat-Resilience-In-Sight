@@ -31,3 +31,11 @@ jupyter notebook code_1_eight_city_vata_panel.ipynb
 ```
 
 Adequacy bar: Hong Kong mean VATA and June–August heat-degree demand (`max(UTCI−26, 0)`), not equatorial Singapore and not Hong Kong’s annual mean.
+
+## Citation
+
+Yang, S., Chong, A., Liu, P., Li, W., Wei, X., Li, J., Sun, H., Reséndiz García, D., and Biljecki, F. (2026). Heat Resilience in Sight: Climate-Conditioned Thermal Affordance of Streetscapes Across Cities and Seasons. *Tackling Climate Change with Machine Learning workshop at NeurIPS 2026*.
+
+## License
+
+Code is released under the MIT License (see `LICENSE`).
