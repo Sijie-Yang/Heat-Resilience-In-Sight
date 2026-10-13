@@ -1,0 +1,18 @@
+{
+  "n_variants": 18,
+  "baseline": "jja|slope1.0|open_sun",
+  "cities_always_surplus": [
+    "Cape Town",
+    "Hong Kong",
+    "Johannesburg",
+    "Melbourne",
+    "New York",
+    "Tokyo"
+  ],
+  "cities_always_deficit": [],
+  "cities_sign_unstable": [
+    "Rio",
+    "Singapore"
+  ],
+  "min_spearman": 0.6666666666666669
+}

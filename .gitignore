@@ -1,0 +1,38 @@
+.DS_Store
+**/.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+
+# Local paper draft (not part of the public analysis repo)
+paper/
+
+# LaTeX build leftovers if compiled outside paper/
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+# Scratch renders and style checks
+tmp/
+
+# Image-level panel derived from Google Street View (~1.3 GB, not redistributed)
+data/svi_vata/
+
+# Large image-level intermediates and exploratory analyses not used in the paper
+data/outputs/*.parquet
+data/outputs/conformal_*
+data/outputs/cooling_*
+scripts/conformal.py
+scripts/conformal_figures.py
+scripts/cooling.py
+figures/fig_conformal*.png
+figures/fig_baselines_dumbbell.png
+figures/fig_baselines_heatmap.png
+figures/fig_baselines_scatter.png
+figures/fig_baselines_streets.png

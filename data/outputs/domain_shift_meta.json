@@ -1,0 +1,8 @@
+{
+  "reference_city": "svi_sg",
+  "n_features": 59,
+  "n_pcs": 10,
+  "envelope": "Singapore 1st\u201399th percentile on 59 pre-model features",
+  "pca_threshold": "Singapore 95th percentile of PCA Euclidean distance",
+  "note": "Diagnostics of input shift, not external validation of VATA labels."
+}

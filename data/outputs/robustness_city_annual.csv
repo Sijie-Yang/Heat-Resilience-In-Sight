@@ -1,0 +1,145 @@
+variant,window,slope,radiation,city,short,shr,inadequate_frac,sign
+july|slope0.8|open_sun,july,0.8,open_sun,svi_sg,Singapore,0.5382492869317188,0.2492268356911017,1
+july|slope0.8|open_sun,july,0.8,open_sun,svi_jh,Johannesburg,0.9354796148008475,0.11904340252576572,1
+july|slope0.8|open_sun,july,0.8,open_sun,svi_hk,Hong Kong,1.0732366253418624,0.10424653494544382,1
+july|slope0.8|open_sun,july,0.8,open_sun,svi_tokyo,Tokyo,1.0769713684666915,0.10722872688943964,1
+july|slope0.8|open_sun,july,0.8,open_sun,svi_ny,New York,1.0952053344294195,0.095478480485009,1
+july|slope0.8|open_sun,july,0.8,open_sun,svi_melbourne,Melbourne,1.5895028598513263,0.02121202757938785,1
+july|slope0.8|open_sun,july,0.8,open_sun,svi_rio,Rio,0.18716065837808915,0.4661328674282886,1
+july|slope0.8|open_sun,july,0.8,open_sun,svi_capetown,Cape Town,0.904077042732896,0.07277505303917932,1
+july|slope0.8|shaded,july,0.8,shaded,svi_sg,Singapore,0.5855946151301238,0.23568880519321453,1
+july|slope0.8|shaded,july,0.8,shaded,svi_jh,Johannesburg,1.3141507766319733,0.0,1
+july|slope0.8|shaded,july,0.8,shaded,svi_hk,Hong Kong,1.200857251167421,0.09406763000098299,1
+july|slope0.8|shaded,july,0.8,shaded,svi_tokyo,Tokyo,1.1634059787942586,0.09118403935086271,1
+july|slope0.8|shaded,july,0.8,shaded,svi_ny,New York,1.25103359480793,0.037425443355340184,1
+july|slope0.8|shaded,july,0.8,shaded,svi_melbourne,Melbourne,1.728092371645725,0.0018631241925848759,1
+july|slope0.8|shaded,july,0.8,shaded,svi_rio,Rio,0.6115290383385121,0.24157357618332034,1
+july|slope0.8|shaded,july,0.8,shaded,svi_capetown,Cape Town,1.142866048863823,0.0,1
+july|slope1.0|open_sun,july,1.0,open_sun,svi_sg,Singapore,0.1835608955300366,0.396059158552269,1
+july|slope1.0|open_sun,july,1.0,open_sun,svi_jh,Johannesburg,0.8316522817331086,0.18619780326123772,1
+july|slope1.0|open_sun,july,1.0,open_sun,svi_hk,Hong Kong,0.9084455958912426,0.17591664209181168,1
+july|slope1.0|open_sun,july,1.0,open_sun,svi_tokyo,Tokyo,0.9814736887349196,0.14662754370471662,1
+july|slope1.0|open_sun,july,1.0,open_sun,svi_ny,New York,1.015637142531938,0.1288550306195634,1
+july|slope1.0|open_sun,july,1.0,open_sun,svi_melbourne,Melbourne,1.5208394198867132,0.04385937808068413,1
+july|slope1.0|open_sun,july,1.0,open_sun,svi_rio,Rio,-0.1065691590119534,0.5857051038328536,-1
+july|slope1.0|open_sun,july,1.0,open_sun,svi_capetown,Cape Town,0.8295468089038337,0.12191847765289121,1
+july|slope1.0|shaded,july,1.0,shaded,svi_sg,Singapore,0.24274255577804285,0.37981888051932144,1
+july|slope1.0|shaded,july,1.0,shaded,svi_jh,Johannesburg,1.304991234022016,0.0,1
+july|slope1.0|shaded,july,1.0,shaded,svi_hk,Hong Kong,1.0679713781731908,0.15706281332940136,1
+july|slope1.0|shaded,july,1.0,shaded,svi_tokyo,Tokyo,1.0895169516443786,0.12292396661254024,1
+july|slope1.0|shaded,july,1.0,shaded,svi_ny,New York,1.2104224680050761,0.053873880500947095,1
+july|slope1.0|shaded,july,1.0,shaded,svi_melbourne,Melbourne,1.6940763096297118,0.006861741103352079,1
+july|slope1.0|shaded,july,1.0,shaded,svi_rio,Rio,0.4238913159385754,0.3232336948321957,1
+july|slope1.0|shaded,july,1.0,shaded,svi_capetown,Cape Town,1.1280330665674922,0.0,1
+july|slope1.2|open_sun,july,1.2,open_sun,svi_sg,Singapore,-0.17112749587164558,0.5717167309694409,-1
+july|slope1.2|open_sun,july,1.2,open_sun,svi_jh,Johannesburg,0.7278249486653698,0.2425127014080418,1
+july|slope1.2|open_sun,july,1.2,open_sun,svi_hk,Hong Kong,0.743654566440623,0.25480192666863266,1
+july|slope1.2|open_sun,july,1.2,open_sun,svi_tokyo,Tokyo,0.8859760090031479,0.18166823348431757,1
+july|slope1.2|open_sun,july,1.2,open_sun,svi_ny,New York,0.9360689506344563,0.16079255322409597,1
+july|slope1.2|open_sun,july,1.2,open_sun,svi_melbourne,Melbourne,1.4521759799221003,0.06823485443721511,1
+july|slope1.2|open_sun,july,1.2,open_sun,svi_rio,Rio,-0.40029897640199597,0.6836402150888056,-1
+july|slope1.2|open_sun,july,1.2,open_sun,svi_capetown,Cape Town,0.7550165750747713,0.16990053559267482,1
+july|slope1.2|shaded,july,1.2,shaded,svi_sg,Singapore,-0.10010950357403797,0.5398179619082614,-1
+july|slope1.2|shaded,july,1.2,shaded,svi_jh,Johannesburg,1.2958316914120587,0.0,1
+july|slope1.2|shaded,july,1.2,shaded,svi_hk,Hong Kong,0.9350855051789607,0.22565123365772144,1
+july|slope1.2|shaded,july,1.2,shaded,svi_tokyo,Tokyo,1.0156279244944986,0.15013958920889953,1
+july|slope1.2|shaded,july,1.2,shaded,svi_ny,New York,1.1698113412022224,0.06791014583371646,1
+july|slope1.2|shaded,july,1.2,shaded,svi_melbourne,Melbourne,1.6600602476136987,0.014919707255921533,1
+july|slope1.2|shaded,july,1.2,shaded,svi_rio,Rio,0.2362535935386386,0.39689135118498003,1
+july|slope1.2|shaded,july,1.2,shaded,svi_capetown,Cape Town,1.1132000842711616,0.0,1
+jja|slope0.8|open_sun,jja,0.8,open_sun,svi_sg,Singapore,0.4570735687443088,0.28029885479821176,1
+jja|slope0.8|open_sun,jja,0.8,open_sun,svi_jh,Johannesburg,0.9117171840769386,0.13556781342236415,1
+jja|slope0.8|open_sun,jja,0.8,open_sun,svi_hk,Hong Kong,1.0355217452082544,0.11838690651725153,1
+jja|slope0.8|open_sun,jja,0.8,open_sun,svi_tokyo,Tokyo,1.0551153029021474,0.11648529565374278,1
+jja|slope0.8|open_sun,jja,0.8,open_sun,svi_ny,New York,1.0769949692786838,0.10360231960816768,1
+jja|slope0.8|open_sun,jja,0.8,open_sun,svi_melbourne,Melbourne,1.5737882095062201,0.02604364382215238,1
+jja|slope0.8|open_sun,jja,0.8,open_sun,svi_rio,Rio,0.11993621726946922,0.4956834380412676,1
+jja|slope0.8|open_sun,jja,0.8,open_sun,svi_capetown,Cape Town,0.8870196892800785,0.08341772499700705,1
+jja|slope0.8|shaded,jja,0.8,shaded,svi_sg,Singapore,0.5299656028331583,0.25710392553126343,1
+jja|slope0.8|shaded,jja,0.8,shaded,svi_jh,Johannesburg,1.3126646070302892,0.0,1
+jja|slope0.8|shaded,jja,0.8,shaded,svi_hk,Hong Kong,1.179296027714778,0.10311117664405779,1
+jja|slope0.8|shaded,jja,0.8,shaded,svi_tokyo,Tokyo,1.1514172113716585,0.09653211026597917,1
+jja|slope0.8|shaded,jja,0.8,shaded,svi_ny,New York,1.2444442895647914,0.04025445807357277,1
+jja|slope0.8|shaded,jja,0.8,shaded,svi_melbourne,Melbourne,1.7225731400104853,0.002421509686038744,1
+jja|slope0.8|shaded,jja,0.8,shaded,svi_rio,Rio,0.5810841251987559,0.25539834277817003,1
+jja|slope0.8|shaded,jja,0.8,shaded,svi_capetown,Cape Town,1.140459342729047,0.0,1
+jja|slope1.0|open_sun,jja,1.0,open_sun,svi_sg,Singapore,0.08209124779577404,0.44396855288137665,1
+jja|slope1.0|open_sun,jja,1.0,open_sun,svi_jh,Johannesburg,0.8019492433282226,0.20319833551071756,1
+jja|slope1.0|open_sun,jja,1.0,open_sun,svi_hk,Hong Kong,0.8613019957242326,0.1979946918313182,1
+jja|slope1.0|open_sun,jja,1.0,open_sun,svi_tokyo,Tokyo,0.9541536067792395,0.15720593681451728,1
+jja|slope1.0|open_sun,jja,1.0,open_sun,svi_ny,New York,0.9928741860935181,0.13800565189939373,1
+jja|slope1.0|open_sun,jja,1.0,open_sun,svi_melbourne,Melbourne,1.5011961069553308,0.05081234421853987,1
+jja|slope1.0|open_sun,jja,1.0,open_sun,svi_rio,Rio,-0.1905997103977283,0.6161111412863083,-1
+jja|slope1.0|open_sun,jja,1.0,open_sun,svi_capetown,Cape Town,0.8082251170878118,0.13615024856288846,1
+jja|slope1.0|shaded,jja,1.0,shaded,svi_sg,Singapore,0.17320629040683602,0.41184013105517786,1
+jja|slope1.0|shaded,jja,1.0,shaded,svi_jh,Johannesburg,1.3031335220199107,0.0,1
+jja|slope1.0|shaded,jja,1.0,shaded,svi_hk,Hong Kong,1.041019848857387,0.1708935417281038,1
+jja|slope1.0|shaded,jja,1.0,shaded,svi_tokyo,Tokyo,1.0745309923661288,0.1289448195310942,1
+jja|slope1.0|shaded,jja,1.0,shaded,svi_ny,New York,1.2021858364511528,0.05675959811439885,1
+jja|slope1.0|shaded,jja,1.0,shaded,svi_melbourne,Melbourne,1.6871772700856618,0.008272050709348213,1
+jja|slope1.0|shaded,jja,1.0,shaded,svi_rio,Rio,0.38583517451387994,0.33874072867066185,1
+jja|slope1.0|shaded,jja,1.0,shaded,svi_capetown,Cape Town,1.1250246838990223,0.0,1
+jja|slope1.2|open_sun,jja,1.2,open_sun,svi_sg,Singapore,-0.2928910731527607,0.6326857125359789,-1
+jja|slope1.2|open_sun,jja,1.2,open_sun,svi_jh,Johannesburg,0.6921813025795066,0.2597362945758939,1
+jja|slope1.2|open_sun,jja,1.2,open_sun,svi_hk,Hong Kong,0.687082246240211,0.2807038238474393,1
+jja|slope1.2|open_sun,jja,1.2,open_sun,svi_tokyo,Tokyo,0.8531919106563318,0.1925034897302225,1
+jja|slope1.2|open_sun,jja,1.2,open_sun,svi_ny,New York,0.9087534029083527,0.17150173786711295,1
+jja|slope1.2|open_sun,jja,1.2,open_sun,svi_melbourne,Melbourne,1.4286040044044412,0.07655362119245833,1
+jja|slope1.2|open_sun,jja,1.2,open_sun,svi_rio,Rio,-0.5011356380649258,0.7123036349042541,-1
+jja|slope1.2|open_sun,jja,1.2,open_sun,svi_capetown,Cape Town,0.729430544895545,0.18516168853980833,1
+jja|slope1.2|shaded,jja,1.2,shaded,svi_sg,Singapore,-0.18355302201948628,0.5775001531018433,-1
+jja|slope1.2|shaded,jja,1.2,shaded,svi_jh,Johannesburg,1.2936024370095323,0.0,1
+jja|slope1.2|shaded,jja,1.2,shaded,svi_hk,Hong Kong,0.9027436699999961,0.24092696353091517,1
+jja|slope1.2|shaded,jja,1.2,shaded,svi_tokyo,Tokyo,0.9976447733605989,0.15589503271325336,1
+jja|slope1.2|shaded,jja,1.2,shaded,svi_ny,New York,1.1599273833375143,0.07134603478186242,1
+jja|slope1.2|shaded,jja,1.2,shaded,svi_melbourne,Melbourne,1.6517814001608386,0.017316203626047983,1
+jja|slope1.2|shaded,jja,1.2,shaded,svi_rio,Rio,0.19058622382900403,0.413164835032197,1
+jja|slope1.2|shaded,jja,1.2,shaded,svi_capetown,Cape Town,1.1095900250689976,1.0303633355510678e-05,1
+mjjas|slope0.8|open_sun,mjjas,0.8,open_sun,svi_sg,Singapore,0.34645583263257623,0.3249050768571254,1
+mjjas|slope0.8|open_sun,mjjas,0.8,open_sun,svi_jh,Johannesburg,0.879336241229939,0.15688005032176902,1
+mjjas|slope0.8|open_sun,mjjas,0.8,open_sun,svi_hk,Hong Kong,0.9841278708913883,0.14066155509682493,1
+mjjas|slope0.8|open_sun,mjjas,0.8,open_sun,svi_tokyo,Tokyo,1.025332154110315,0.12893437408008812,1
+mjjas|slope0.8|open_sun,mjjas,0.8,open_sun,svi_ny,New York,1.0521797977997966,0.11420576101415426,1
+mjjas|slope0.8|open_sun,mjjas,0.8,open_sun,svi_melbourne,Melbourne,1.552373935832043,0.03295357234292373,1
+mjjas|slope0.8|open_sun,mjjas,0.8,open_sun,svi_rio,Rio,0.028329815098267486,0.5335533105208843,1
+mjjas|slope0.8|open_sun,mjjas,0.8,open_sun,svi_capetown,Cape Town,0.8637757209464426,0.0988211662142881,1
+mjjas|slope0.8|shaded,mjjas,0.8,shaded,svi_sg,Singapore,0.343758380571076,0.33404908445097675,1
+mjjas|slope0.8|shaded,mjjas,0.8,shaded,svi_jh,Johannesburg,1.3076899453939712,0.0,1
+mjjas|slope0.8|shaded,mjjas,0.8,shaded,svi_hk,Hong Kong,1.1071240555385307,0.13721124545365182,1
+mjjas|slope0.8|shaded,mjjas,0.8,shaded,svi_tokyo,Tokyo,1.1112871607392438,0.11391523991301788,1
+mjjas|slope0.8|shaded,mjjas,0.8,shaded,svi_ny,New York,1.2223878809517488,0.04930393364841753,1
+mjjas|slope0.8|shaded,mjjas,0.8,shaded,svi_melbourne,Melbourne,1.7040985931978845,0.005044597270900096,1
+mjjas|slope0.8|shaded,mjjas,0.8,shaded,svi_rio,Rio,0.4791757418986691,0.29989468856178975,1
+mjjas|slope0.8|shaded,mjjas,0.8,shaded,svi_capetown,Cape Town,1.1324033653594434,0.0,1
+mjjas|slope1.0|open_sun,mjjas,1.0,open_sun,svi_sg,Singapore,-0.05618092234389166,0.5124969379631331,-1
+mjjas|slope1.0|open_sun,mjjas,1.0,open_sun,svi_jh,Johannesburg,0.7614730647694731,0.22531620457734555,1
+mjjas|slope1.0|open_sun,mjjas,1.0,open_sun,svi_hk,Hong Kong,0.7970596528281503,0.22886562469281432,1
+mjjas|slope1.0|open_sun,mjjas,1.0,open_sun,svi_tokyo,Tokyo,0.9169246707894495,0.17086906152370643,1
+mjjas|slope1.0|open_sun,mjjas,1.0,open_sun,svi_ny,New York,0.9618552217449094,0.1506412024691812,1
+mjjas|slope1.0|open_sun,mjjas,1.0,open_sun,svi_melbourne,Melbourne,1.474428264862609,0.06038177676939782,1
+mjjas|slope1.0|open_sun,mjjas,1.0,open_sun,svi_rio,Rio,-0.30510771311173046,0.6541605561892346,-1
+mjjas|slope1.0|open_sun,mjjas,1.0,open_sun,svi_capetown,Cape Town,0.7791701566707671,0.15489746412863645,1
+mjjas|slope1.0|shaded,mjjas,1.0,shaded,svi_sg,Singapore,-0.05955273742076683,0.520825678241166,-1
+mjjas|slope1.0|shaded,mjjas,1.0,shaded,svi_jh,Johannesburg,1.2969151949745135,0.0,1
+mjjas|slope1.0|shaded,mjjas,1.0,shaded,svi_hk,Hong Kong,0.950804883637078,0.21773813034503098,1
+mjjas|slope1.0|shaded,mjjas,1.0,shaded,svi_tokyo,Tokyo,1.0243684290756103,0.14724952283280632,1
+mjjas|slope1.0|shaded,mjjas,1.0,shaded,svi_ny,New York,1.1746153256848497,0.06627495693644984,1
+mjjas|slope1.0|shaded,mjjas,1.0,shaded,svi_melbourne,Melbourne,1.6640840865699111,0.013799625683084231,1
+mjjas|slope1.0|shaded,mjjas,1.0,shaded,svi_rio,Rio,0.2584496953887717,0.38865050483104907,1
+mjjas|slope1.0|shaded,mjjas,1.0,shaded,svi_capetown,Cape Town,1.1149547121870176,0.0,1
+mjjas|slope1.2|open_sun,mjjas,1.2,open_sun,svi_sg,Singapore,-0.45881767732035944,0.7117054014330333,-1
+mjjas|slope1.2|open_sun,mjjas,1.2,open_sun,svi_jh,Johannesburg,0.6436098883090072,0.2816427154400736,1
+mjjas|slope1.2|open_sun,mjjas,1.2,open_sun,svi_hk,Hong Kong,0.609991434764912,0.31191880467905236,1
+mjjas|slope1.2|open_sun,mjjas,1.2,open_sun,svi_tokyo,Tokyo,0.8085171874685836,0.20608779876363845,1
+mjjas|slope1.2|open_sun,mjjas,1.2,open_sun,svi_ny,New York,0.8715306456900223,0.18652647258951394,1
+mjjas|slope1.2|open_sun,mjjas,1.2,open_sun,svi_melbourne,Melbourne,1.396482593893175,0.0877801859225058,1
+mjjas|slope1.2|open_sun,mjjas,1.2,open_sun,svi_rio,Rio,-0.6385452413217285,0.7481170676950374,-1
+mjjas|slope1.2|open_sun,mjjas,1.2,open_sun,svi_capetown,Cape Town,0.6945645923950913,0.2048136612440116,1
+mjjas|slope1.2|shaded,mjjas,1.2,shaded,svi_sg,Singapore,-0.4628638554126095,0.6921045379386368,-1
+mjjas|slope1.2|shaded,mjjas,1.2,shaded,svi_jh,Johannesburg,1.2861404445550557,0.0,1
+mjjas|slope1.2|shaded,mjjas,1.2,shaded,svi_hk,Hong Kong,0.7944857117356254,0.2854369409220486,1
+mjjas|slope1.2|shaded,mjjas,1.2,shaded,svi_tokyo,Tokyo,0.9374496974119765,0.17242828248297867,1
+mjjas|slope1.2|shaded,mjjas,1.2,shaded,svi_ny,New York,1.1268427704179504,0.08344520661309009,1
+mjjas|slope1.2|shaded,mjjas,1.2,shaded,svi_melbourne,Melbourne,1.6240695799419378,0.025973017988988253,1
+mjjas|slope1.2|shaded,mjjas,1.2,shaded,svi_rio,Rio,0.037723648878874076,0.4635906070646172,1
+mjjas|slope1.2|shaded,mjjas,1.2,shaded,svi_capetown,Cape Town,1.0975060590145922,0.00167016990200754,1
