@@ -15,20 +15,26 @@ from scripts.figures import BLUE, GRID, INK, MUTED, polish_axes, style
 from scripts.maps import _to_local_m, peak_quarter
 
 def draw_baselines(path) -> None:
+    """City-average margins by indicator, drawn exactly like the warming bar chart (draw_warming)."""
+    from scripts.config import PANEL_ORDER
+    from scripts.figures import ORANGE
     style()
-    b = pd.read_csv(TABLES / "baselines_city.csv").set_index("city").loc[list(reversed(SHR_RANK_ORDER))]
-    fig, ax = plt.subplots(figsize=(5.5, 1.75))
-    y = np.arange(len(b))
-    for off, col, color, name in ((-0.24, "vata_shr_rel", INK, "Supply score (VATA)"),
-                                  (0.0, "green_view_shr_rel", "#5E8C61", "Green view"),
-                                  (0.24, "shade_proxy_shr_rel", "#D7834B", "1 $-$ sky fraction")):
-        ax.barh(y + off, b[col], height=0.22, color=color, label=name)
-    ax.axvline(0, color=INK, lw=0.7)
-    ax.set_yticks(y, [CITIES[k]["short"] for k in b.index])
-    ax.set_xlabel("Annual-mean margin, in units of the Hong Kong mean of each indicator")
-    polish_axes(ax, grid_axis="x")
-    ax.legend(ncol=3, loc="lower center", bbox_to_anchor=(0.5, 1.0), frameon=False)
-    fig.savefig(path, bbox_inches="tight", pad_inches=0.02)
+    keys = PANEL_ORDER
+    x = np.arange(len(keys))
+    b = pd.read_csv(TABLES / "baselines_city.csv").set_index("city").reindex(keys)
+    fig, ax = plt.subplots(figsize=(5.50, 2.43))
+    polish_axes(ax)
+    w = 0.25
+    ax.bar(x - w, b["vata_shr_rel"].to_numpy(), w, label="Supply score (VATA)", color=BLUE)
+    ax.bar(x, b["green_view_shr_rel"].to_numpy(), w, label="Green-view fraction", color="#5E8C61")
+    ax.bar(x + w, b["shade_proxy_shr_rel"].to_numpy(), w, label="1 $-$ sky fraction", color=ORANGE)
+    ax.axhline(0, color=INK, lw=0.9)
+    ax.set_xticks(x)
+    ax.set_xticklabels([CITIES[k]["short"] for k in keys], rotation=25, ha="right")
+    ax.set_ylabel("Annual-mean margin\n(HK-mean units)")
+    ax.legend(frameon=True, facecolor="white", edgecolor=GRID)
+    fig.tight_layout()
+    fig.savefig(path, bbox_inches="tight")
     plt.close(fig)
 
 
